@@ -1,2 +1,38 @@
-# Kawah--Ijen
-Final Project HCI
+# Kelompok 3
+
+- Putri Anggini Pradaya (2440074810)
+- Jayawardhana Bayu Krisnatama EkaPutra (2440100632)
+- Muhammad Zulham Firdaus (2440066405)
+- Bachatsa Taqiyya (2440071733)
+
+# <p align="center">1337 Teams</p> 
+
+<div align="center">                    
+<img width="200px" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/ngg.png"></img>
+<p align="center">Anggi</p>
+<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/taqqq.png" width="200px">
+<p align="center">Taqi</p>
+<img width="200px" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/juham.png"></img>
+<p align="center">Zulham</p>
+<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/aas.png" width="200px">
+<p align="center">Bayu</p>
+</div>
+
+## 📝 Poster 
+<p align="center">
+<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/Poster.jpg" width="650" height="50%"> 
+
+<a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/Poster.jpg">Read More</a>
+</p>
+
+
+## 💌Paper
+
+<div align="center">
+  Button sebelah merupakan Paper pada kelompok 3
+  <a href="https://github.com/Anggi-p/Kawah--Ijen/blob/main/Document/HCI%20Karya%20Tulis%20ilmiah.docx">Please klick</a>
+ </div>
+ 
+ 
+ 
+
