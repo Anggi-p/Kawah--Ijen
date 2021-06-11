@@ -1,6 +1,6 @@
 # Kelompok 3 
 
--Putri Anggini Pradaya (2440074810)
+- Putri Anggini Pradaya (2440074810)
 - Jayawardhana Bayu Krisnatama EkaPutra (2440100632)
 - Muhammad Zulham Firdaus (2440066405)
 - Bachatsa Taqiyya (2440071733)
