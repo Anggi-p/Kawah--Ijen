@@ -31,9 +31,7 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 </p>
 
 #
-### 📝 Paper
-<p align="center">           
-<a href="https://github.com/Anggi-p/Kawah--Ijen/blob/main/Document/HCI%20Karya%20Tulis%20ilmiah.docx">Read More</a>
-</p>
+## 📝 Paper : https://github.com/Anggi-p/Kawah--Ijen/blob/main/Document/HCI%20Karya%20Tulis%20ilmiah.docx          
 
-#
+
+
